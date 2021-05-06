@@ -1,0 +1,9 @@
+{
+    "required": true,
+    "package": "dev.client.velocity.mixin.mixins",
+    "refmap": "mixins.velocity.refmap.json",
+    "minVersion": "0.7.3",
+    "compatibilityLevel": "JAVA_8",
+    "mixins": [
+    ]
+}
